@@ -1,0 +1,21 @@
+@import "fonts.css";
+@import "workflow_login.css";
+html,
+body {
+    margin: 0;
+    font-family: GothamBook, sans-serif;
+    font-size: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #fff;
+}
